@@ -1,0 +1,19 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+pyproj>=3.6
+PyYAML>=6.0
+requests>=2.31
+shapely>=2.0
+tqdm>=4.66
+
+earthengine-api>=1.0
+
+paramiko>=3.4,<6
+netCDF4>=1.6.5,<1.7
+rasterio>=1.5,<1.6
+
+# S06B JAXA P-Tree implicit FTPS/SFTP + NetCDF pilot
+
+# S06C anonymous NOAA AWS HSD HEAD audit
+boto3>=1.34,<2
